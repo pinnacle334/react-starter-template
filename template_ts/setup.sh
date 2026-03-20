@@ -49,6 +49,7 @@ mkdir -p src/types
 touch src/types/index.ts
 
 # Root files
+touch .env.local
 touch src/App.tsx
 touch src/main.tsx
 touch src/main.css

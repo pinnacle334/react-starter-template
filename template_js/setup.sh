@@ -46,6 +46,7 @@ mkdir -p src/utils
 touch src/utils/helpers.js
 
 # Root files
+touch .env.local
 touch src/App.jsx
 touch src/main.jsx
 touch src/main.css
